@@ -1,7 +1,3 @@
-Row_Label,Num_Missions,Total_Original_Budget,Optimistic_Projected,Optimistic_Exposure,Base_Projected,Base_Exposure,Pessimistic_Projected,Pessimistic_Exposure,Scenario_Range,Historical_Overrun_Pct,Sort_Order
-Orbiter,17,6952.30,8012.16,1059.86,9072.02,2119.72,10131.87,3179.57,2119.72,30.49,1
-Flyby,3,1132.40,1276.76,144.36,1421.12,288.72,1565.49,433.09,288.72,25.50,1
-"Sample Return",3,1109.80,1157.87,48.07,1205.95,96.15,1254.02,144.22,96.15,8.66,1
-Rover,1,1068.50,1702.82,634.32,2337.13,1268.63,2971.45,1902.95,1268.63,118.73,1
-Impact,1,219.00,238.66,19.66,258.31,39.31,277.97,58.97,39.31,17.95,1
-"TOTAL PORTFOLIO",25,10482.00,12388.26,1906.26,14294.53,3812.53,16200.79,5718.79,3812.53,30.30,2
+version https://git-lfs.github.com/spec/v1
+oid sha256:524a68020a4fbef8a0434094b433516682615559b7045907e3e2b509fc38b019
+size 695
